@@ -1,0 +1,38 @@
+baseURL: https://breadcloud.net/
+languageCode: en-us
+title: breadsite
+theme: hextra
+enableGitInfo: true
+menu:
+  main:
+    - name: Github
+      weight: 1
+      url: https://github.com/bbbreaddd/breadsite
+      params:
+        icon: github
+params:
+  editURL:
+    enable: true
+    base: "https://github.com/bbbreaddd/breadsite/edit/main"
+  # Display the last modification date
+  displayUpdatedDate: true
+  dateFormat: "January 2, 2006"
+  analytics:
+    umami:
+      serverURL: "https://breadcloud.net"
+      websiteID: "9c6d6cc9-d70f-43db-9daa-2d9a6adb2f5b"
+      # scriptName: "umami.js" # optional (default: umami.js)
+      # https://umami.is/docs/tracker-configuration#data-host-url
+      hostURL: "https://tr.breadcloud.net" # optional
+      # https://umami.is/docs/tracker-configuration#data-auto-track
+      # autoTrack: "false" # optional
+      # https://umami.is/docs/tracker-configuration#data-tag
+      # domains: "example.net,example.org" # optional
+      # https://umami.is/docs/tracker-configuration#data-exclude-search
+      # tag: "umami-eu" # optional
+      # https://umami.is/docs/tracker-configuration#data-exclude-hash
+      # excludeSearch: "true" # optional
+      # https://umami.is/docs/tracker-configuration#data-do-not-track
+      # excludeHash: "true" # optional
+      # https://umami.is/docs/tracker-configuration#data-domains
+      # doNotTrack: "true" # optional
