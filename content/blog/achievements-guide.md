@@ -1,6 +1,6 @@
 ---
 date: '2025-12-22T13:42:45-08:00'
-draft: true
+draft: false
 title: 'Pirated Games Achievements Guide'
 ---
 
