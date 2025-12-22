@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- 0.153.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Dec 2025 11:35:43 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Achievements Guide</title>
+      <link>http://localhost:1313/posts/achievements-guide/</link>
+      <pubDate>Mon, 22 Dec 2025 11:35:43 -0800</pubDate>
+      <guid>http://localhost:1313/posts/achievements-guide/</guid>
+      <description>&lt;h1 id=&#34;pirated-games-achievement-guide&#34;&gt;Pirated Games Achievement Guide&lt;/h1&gt;
+&lt;p&gt;-&amp;gt; Here is a guide on how to see achievements you&amp;rsquo;ve unlocked with pirated games using Achievement Watcher and Goldberg. Achievement Watcher can also do achievement notifications, clips, and screenshots to make it seem more official. This is my personal method, and it&amp;rsquo;s been pretty reliable. While it might seem like a lot due to the pictures and number of steps, I just tried to be as specific as possible. &amp;lt;-
+!!! warning Warning
+- Requires a Steam account with at least $5 spent on it. You can check here if your account will work &lt;a href=&#34;https://steamcommunity.com/dev/apikey&#34;&gt;https://steamcommunity.com/dev/apikey&lt;/a&gt;
+!!! info Things to Know:
+- This guide is focused on Steam games
+- You have to patch most games manually
+- Might not be able to get achievements you already unlocked previously
+- Some games might not work with Goldberg
+- You can use already cracked games; SteamAutoCrack will replace any crack already added.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
