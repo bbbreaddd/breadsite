@@ -11,16 +11,15 @@ Achievement Watcher can also do achievement notifications, clips, and screenshot
 ---
 
 {{< callout type="warning" >}}  
-WARNING  
+**READ FIRST**  
 Requires a Steam account with at least $5 spent on it. You can check here if your account will work  
 <https://steamcommunity.com/dev/apikey>  
 {{< /callout >}}  
 
-{{< callout type="info" >}}  
-Things to Know:
-
-- This guide is focused on Steam games  
-- You have to patch most games manually  
+{{< callout type="info" >}}
+**Things to Know**  
+- This guide is focused on Steam games
+- You have to patch most games manually
 - Might not be able to get achievements you already unlocked previously  
 - Some games might not work with Goldberg  
 - You can use already cracked games; SteamAutoCrack will replace any crack already added.  
@@ -47,16 +46,16 @@ Extract it and run `SteamAutoCrack.exe`
 
 SteamAutoCrack can seem overwhelming, but there are only a few options you need to mess with.  
 
-## 3a. Change your Settings
+### 3a. Change your Settings
 
 Press the Settings button (1) and make sure to enable `Save Config File` (2), and then make sure to update Goldberg (3)  
 ![Image](https://i.imgur.com/03FFnzG.png)  
 
-## 3b. Change the `Generator API` to `Steam Web API` (1) and then enter your API key (2)
+### 3b. Change the `Generator API` to `Steam Web API` (1) and then enter your API key (2)
 
 ![Image](https://i.imgur.com/f8CmU0W.png)  
 
-## 3c. Add the game you want
+### 3c. Add the game you want
 
 Select the three dots next to the Path (1) and choose the Folder option. (2)  
 Then choose the main folder for your game.  
@@ -67,14 +66,14 @@ You don't need to choose the folder where the .exe is located. Just choose the m
 
 ![Image](https://i.imgur.com/z5FO5eY.png)  
 
-## 3d. Add the AppID
+### 3d. Add the AppID
 
 Press the `AppID Finder` (1), and then it will show a search menu. Make sure the App Name is correct (2) and select the right game (3). It might also show DLCs and demos, which can make it difficult to find the right one.  
 You could also just add the AppID yourself if you know how to find it.  
 
 ![Image](https://i.imgur.com/gXo3ra2.png)  
 
-## 3e. Running SteamAutoCrack
+### 3e. Running SteamAutoCrack
 
 Now you should be all set to go. Just press the `Start` button at the bottom.  
 
