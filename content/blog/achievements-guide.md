@@ -6,7 +6,7 @@ title: 'Pirated Games Achievements Guide'
 
 Here is a guide on how to see achievements you've unlocked with pirated games using Achievement Watcher and Goldberg.
 <!--more-->  
-Achievement Watcher can also do achievement notifications, clips, and screenshots to make it seem more official. This is my personal method, and it's been pretty reliable. While it might seem like a lot due to the pictures and number of steps, I just tried to be as specific as possible.    
+Achievement Watcher can also do achievement notifications, clips, and screenshots to make it seem more official. This is my personal method, and it's been pretty reliable. While it might seem like a lot due to the pictures and number of steps, I just tried to be as specific as possible. A majority of it is just setup and won't have to be repeated every time.
 
 ---
 
@@ -89,5 +89,9 @@ Download Achievement Watcher from here
 
 Your games should pop up if you've played them with Goldberg.  
 ![Image](https://i.imgur.com/jQf6aaG.png)  
+
+## 5. Next time You Want to Get Achievements for a Game.
+
+You might be wondering if all of this is necessary for every single game. Fortunately, most of this was just setup and if you want to add a new game, just follow steps 3c to 3e. That's all.
 
 Created by `b_bread` (Discord)  
