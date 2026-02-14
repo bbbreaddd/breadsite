@@ -18,11 +18,12 @@ Requires a Steam account with at least $5 spent on it. You can check here if you
 
 {{< callout type="info" >}}
 **Things to Know**  
-- This guide is focused on Steam games
-- You have to patch most games manually
+- This guide is focused on Steam games.
+- You have to patch most games manually.
 - Might not be able to get achievements you already unlocked previously  
-- Some games might not work with Goldberg  
+- Some games might not work with Goldberg.  
 - You can use already cracked games; SteamAutoCrack will replace any crack already added.  
+- Some cracks or games might change the save file location based on the crack used.  
 {{< /callout >}}  
 
 ## 1. Get your Steam API Key
@@ -94,4 +95,25 @@ Your games should pop up if you've played them with Goldberg.
 
 You might be wondering if all of this is necessary for every single game. Fortunately, most of this was just setup and if you want to add a new game, just follow steps 3c to 3e. That's all.
 
+---
+
+## Troubleshooting
+
+### My Game Doesn't Show Up in Achievement Watcher
+
+- If the `steam_settings` folder or `steam_api.dll.bak` (and `steam_api64.dll.bak`) already exists, SteamAutoCrack won't replace the crack or add the achievement files. These will need to be deleted or renamed first and then you can run SteamAutoCrack again.  
+- You might need to unlock an achievement first.  
+- If you already had Achievement Watcher open, you might need to reload it to detect any changes. Press the Settings icon at the top, and just press Save. It will reload and show you any new changes.  
+
+### My Game Doesn't Launch or Work Anymore
+
+- Sometimes a game might not support Goldberg, or might not work with Goldberg alone. You can try checking cs.rin.ru to see if anyone posted a solution for this, specifically for achievements.  
+- If you want to restore the original crack, you can use the `Restore Crack` button in SteamAutoCrack  
+
+### My Save File is Gone
+
+- While this is uncommon, some games might change the save file location based on the User ID or some other factors. You can use PCGamingWiki to find out where your save file is located.
+- Some cracks can also change the save file location. This shouldn't be the case for Goldberg, so it's likely the original crack, if there was any, used a custom save location which you will need to find.
+
 Created by `b_bread` (Discord)  
+Feel free to DM me if you need help.
