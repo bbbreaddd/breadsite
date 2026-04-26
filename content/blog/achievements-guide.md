@@ -39,7 +39,7 @@ Requires a Steam account with at least $5 spent on it. You can check here if you
 ## 2. Download and Extract Steam-Auto-Crack
 
 Download the latest `SteamAutoCrack.zip`  
-<https://github.com/SteamAutoCracks/Steam-auto-crack/releases>  
+<https://gitlab.com/steamautocracks/Steam-auto-crack/-/releases>  
 
 Extract it and run `SteamAutoCrack.exe`  
 
