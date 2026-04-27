@@ -9,12 +9,7 @@ Here is a guide on how to see achievements you've unlocked with pirated games us
 Achievement Watcher can also do achievement notifications, clips, and screenshots to make it seem more official. This is my personal method, and it's been pretty reliable. While it might seem like a lot due to the pictures and number of steps, I just tried to be as specific as possible. A majority of it is just setup and won't have to be repeated every time.
 
 ---
-
-{{< callout type="warning" >}}  
-**READ FIRST**  
-Requires a Steam account with at least $5 spent on it. You can check here if your account will work  
-<https://steamcommunity.com/dev/apikey>  
-{{< /callout >}}  
+ 
 
 {{< callout type="info" >}}
 **Things to Know**  
@@ -26,63 +21,44 @@ Requires a Steam account with at least $5 spent on it. You can check here if you
 - Some cracks or games might change the save file location based on the crack used.  
 {{< /callout >}}  
 
-## 1. Get your Steam API Key
-
-<https://steamcommunity.com/dev/apikey>  
-
-![Image](https://i.imgur.com/HRlkXK5.png)  
-
-![Image](https://i.imgur.com/TvbiJHA.png)  
-
-(no it's not my real API key)  
-
-## 2. Download and Extract Steam-Auto-Crack
+## 1. Download and Extract Steam-Auto-Crack
 
 Download the latest `SteamAutoCrack.zip`  
-<https://gitlab.com/steamautocracks/Steam-auto-crack/-/releases>  
+<https://github.com/bbbreaddd/steamautocrack/releases/latest>  
 
 Extract it and run `SteamAutoCrack.exe`  
 
-## 3. Using SteamAutoCrack
+## 2. Using SteamAutoCrack
 
 SteamAutoCrack can seem overwhelming, but there are only a few options you need to mess with.  
 
-### 3a. Change your Settings
-
-Press the Settings button (1) and make sure to enable `Save Config File` (2), and then make sure to update Goldberg (3)  
-![Image](https://i.imgur.com/03FFnzG.png)  
-
-### 3b. Change the `Generator API` to `Steam Web API` (1) and then enter your API key (2)
-
-![Image](https://i.imgur.com/f8CmU0W.png)  
-
-### 3c. Add the game you want
+### 2a. Add the game you want
 
 Select the three dots next to the Path (1) and choose the Folder option. (2)  
 Then choose the main folder for your game.  
 {{< callout type="info" >}}  
 You don't need to choose the folder where the .exe is located. Just choose the main folder for the game.  
 {{< /callout >}}  
-![Image](https://i.imgur.com/MDKB5yt.png)  
+![Image](https://i.imgur.com/bUtgyL5.png)  
 
-![Image](https://i.imgur.com/z5FO5eY.png)  
+![Image](https://i.imgur.com/NvdlQkF.png)  
 
-### 3d. Add the AppID
+### 2b. Add the AppID
 
 Press the `AppID Finder` (1), and then it will show a search menu. Make sure the App Name is correct (2) and select the right game (3). It might also show DLCs and demos, which can make it difficult to find the right one.  
 You could also just add the AppID yourself if you know how to find it.  
 
-![Image](https://i.imgur.com/gXo3ra2.png)  
+![Image](https://i.imgur.com/re0UIKI.png)  
 
-### 3e. Running SteamAutoCrack
+### 2c. Running SteamAutoCrack
 
 Now you should be all set to go. Just press the `Start` button at the bottom.  
 
-![Image](https://i.imgur.com/B6XSnKI.png)  
+![Image](https://i.imgur.com/Utm5jmN.png)  
 
 You can check if it worked by finding a `steam_settings` folder in your game. It might be hidden somewhere, but when you find it, you should also find an `achievement_images` folder inside it.  
 
-## 4. Achievement Watcher
+## 3. Achievement Watcher
 
 Download Achievement Watcher from here  
 <https://github.com/darktakayanagi/Achievement-Watcher/releases/latest>  
@@ -91,9 +67,9 @@ Download Achievement Watcher from here
 Your games should pop up if you've played them with Goldberg.  
 ![Image](https://i.imgur.com/jQf6aaG.png)  
 
-## 5. Next time You Want to Get Achievements for a Game.
+## 4. Next time You Want to Get Achievements for a Game.
 
-You might be wondering if all of this is necessary for every single game. Fortunately, most of this was just setup and if you want to add a new game, just follow steps 3c to 3e. That's all.
+You might be wondering if all of this is necessary for every single game. Fortunately, most of this was just setup and if you want to add a new game, just follow steps 2c to 2e. That's all.
 
 ---
 
@@ -101,7 +77,6 @@ You might be wondering if all of this is necessary for every single game. Fortun
 
 ### My Game Doesn't Show Up in Achievement Watcher
 
-- If the `steam_settings` folder or `steam_api.dll.bak` (and `steam_api64.dll.bak`) already exists, SteamAutoCrack won't replace the crack or add the achievement files. These will need to be deleted or renamed first and then you can run SteamAutoCrack again.  
 - You might need to unlock an achievement first.  
 - If you already had Achievement Watcher open, you might need to reload it to detect any changes. Press the Settings icon at the top, and just press Save. It will reload and show you any new changes.  
 
